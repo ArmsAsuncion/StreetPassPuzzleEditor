@@ -15,7 +15,7 @@ Warning: Please create a back-up. This tool was tested using a EU 3DS, but will 
 - Open the program and hit File > Open Save File.
 - Locate the "meet.dat" file.
 - Click the "UNLOCK" button on the puzzle you want to unlock. If you want to unlock all, go to Tab 7, and UNLOCK ALL is at the bottom.
-At the last tab (*), you can edit your Streetpass Hits, Tickets, Accomplishments, Streetpass Map, and ability to delete all puzzle pieces.
+- At the last tab (*), you can edit your Streetpass Hits, Tickets, Accomplishments, Streetpass Map, and ability to delete all puzzle pieces.
 
 For Warrior's Way Save Editor:
 
@@ -23,7 +23,7 @@ For Warrior's Way Save Editor:
 - Open the program and hit File > Open Warrior's Way Save File.
 - Locate the "mgBtl0.dat" file.
 - Edit your wanted values, and click "Edit Save".
-Note: If the edit didn't worked, then you probably needed to edit "mgBtl1.dat" instead, or you can simply copy "mgBtl0.dat" and rename it to "mgBtl1.dat".
+- Note: If the edit didn't worked, then you probably needed to edit "mgBtl1.dat" instead, or you can simply copy "mgBtl0.dat" and rename it to "mgBtl1.dat".
 
 Version 1.01 (April 23, 2016):
 Added the new Kirby puzzle.
