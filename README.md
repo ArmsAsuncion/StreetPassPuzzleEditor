@@ -29,7 +29,7 @@ Note: If the edit didn't worked, then you probably needed to edit "mgBtl1.dat" i
 Version 1.01 (April 23, 2016):
 Added the new Kirby puzzle.
 
-Download Link: https://github.com/ArmsAsuncion/streetpasspuzzleeditor/raw/master/Mii%20Plaza%20Editor.exe
+Download Link: https://github.com/ArmsAsuncion/streetpasspuzzleeditor/releases
 
 If you have any suggestions, or if you happen to see any bugs, please tell me so I can look into it. Thanks!
 Reddit Link: https://www.reddit.com/r/3dshacks/comments/4c6x84/streetpass_mii_plaza_puzzle_swap_save_editor/
