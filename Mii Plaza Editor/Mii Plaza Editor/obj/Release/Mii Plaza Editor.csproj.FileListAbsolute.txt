@@ -1,0 +1,11 @@
+C:\Users\Arms\Documents\Visual Studio 2013\Projects\Mii Plaza Editor\Mii Plaza Editor\bin\Release\Mii Plaza Editor.exe.config
+C:\Users\Arms\Documents\Visual Studio 2013\Projects\Mii Plaza Editor\Mii Plaza Editor\bin\Release\Mii Plaza Editor.exe
+C:\Users\Arms\Documents\Visual Studio 2013\Projects\Mii Plaza Editor\Mii Plaza Editor\bin\Release\Mii Plaza Editor.pdb
+C:\Users\Arms\Documents\Visual Studio 2013\Projects\Mii Plaza Editor\Mii Plaza Editor\obj\Release\Mii_Plaza_Editor.Form1.resources
+C:\Users\Arms\Documents\Visual Studio 2013\Projects\Mii Plaza Editor\Mii Plaza Editor\obj\Release\Mii_Plaza_Editor.Form2.resources
+C:\Users\Arms\Documents\Visual Studio 2013\Projects\Mii Plaza Editor\Mii Plaza Editor\obj\Release\Mii_Plaza_Editor.Properties.Resources.resources
+C:\Users\Arms\Documents\Visual Studio 2013\Projects\Mii Plaza Editor\Mii Plaza Editor\obj\Release\Mii Plaza Editor.csproj.GenerateResource.Cache
+C:\Users\Arms\Documents\Visual Studio 2013\Projects\Mii Plaza Editor\Mii Plaza Editor\obj\Release\Mii Plaza Editor.exe
+C:\Users\Arms\Documents\Visual Studio 2013\Projects\Mii Plaza Editor\Mii Plaza Editor\obj\Release\Mii Plaza Editor.pdb
+C:\Users\Arms\Documents\Visual Studio 2013\Projects\Mii Plaza Editor\Mii Plaza Editor\obj\Release\Mii Plaza Editor.csprojResolveAssemblyReference.cache
+C:\Users\Arms\Documents\Visual Studio 2013\Projects\Mii Plaza Editor\Mii Plaza Editor\obj\Release\Mii_Plaza_Editor.Form3.resources

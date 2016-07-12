@@ -1,0 +1,10 @@
+c:\users\arms\documents\visual studio 2013\Projects\Mii Plaza Editor\Mii Plaza Editor\bin\Debug\Mii Plaza Editor.exe.config
+c:\users\arms\documents\visual studio 2013\Projects\Mii Plaza Editor\Mii Plaza Editor\bin\Debug\Mii Plaza Editor.exe
+c:\users\arms\documents\visual studio 2013\Projects\Mii Plaza Editor\Mii Plaza Editor\bin\Debug\Mii Plaza Editor.pdb
+c:\users\arms\documents\visual studio 2013\Projects\Mii Plaza Editor\Mii Plaza Editor\obj\Debug\Mii Plaza Editor.csprojResolveAssemblyReference.cache
+c:\users\arms\documents\visual studio 2013\Projects\Mii Plaza Editor\Mii Plaza Editor\obj\Debug\Mii_Plaza_Editor.Form1.resources
+c:\users\arms\documents\visual studio 2013\Projects\Mii Plaza Editor\Mii Plaza Editor\obj\Debug\Mii_Plaza_Editor.Properties.Resources.resources
+c:\users\arms\documents\visual studio 2013\Projects\Mii Plaza Editor\Mii Plaza Editor\obj\Debug\Mii Plaza Editor.csproj.GenerateResource.Cache
+c:\users\arms\documents\visual studio 2013\Projects\Mii Plaza Editor\Mii Plaza Editor\obj\Debug\Mii Plaza Editor.exe
+c:\users\arms\documents\visual studio 2013\Projects\Mii Plaza Editor\Mii Plaza Editor\obj\Debug\Mii Plaza Editor.pdb
+C:\Users\Arms\documents\visual studio 2013\Projects\Mii Plaza Editor\Mii Plaza Editor\obj\Debug\Mii_Plaza_Editor.Form2.resources
