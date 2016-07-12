@@ -1,5 +1,4 @@
-# streetpasspuzzleeditor
-Street Pass Puzzle Editor
+# Street Pass Puzzle Editor
 
 This tool can easily unlock specific or all (As of April 23) puzzle swap pieces, edit your hits, tickets, and more by just clicking a button. You need to dump your "meet.dat" save file first, though.
 
